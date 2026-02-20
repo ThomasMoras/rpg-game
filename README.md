@@ -11,7 +11,11 @@
 
 ## ✨ Features
 
-- **Tactical Combat System** - [Description to add]
+- **Action / Tactical Combat System**
+  - Based on 3D grid map using 3 axes (x,y,z), extra grids can be add to the map (sphere ?) to create a second layer of the map for special action (hide for range characters / monster)
+  - Grid combat map should not be too large to focus on action
+  - Turn by turn system (include some dynamic mechaninsm, if player turn dont act in specific timer then it's go to next monster turn)
+  - Some action as magic or environnement can influence on the combat area : example, fire ball on a tree make the tree and the areas around the tree on fire, a rock on tree can damage it...
 - **Character Progression** - [Description to add]
 - **Dynamic Action Mechanics** - [Description to add]
 - **Story-Driven Campaign** - [Description to add]
