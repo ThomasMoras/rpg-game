@@ -32,7 +32,7 @@
   - Diverse wildlife integrated into society  
 - **Strategic Advantages:**
   - Natural maritime isolation  
-  - Exclusive control of water navigation  
+  - Rare ability to navigate violent seas using water mastery  
   - Self-sustaining ecosystem  
 - **Strategic Weaknesses:**
   - Lack of metal resources  
@@ -47,7 +47,7 @@
   - **Tribe Chief:** War leader and decision-maker
   - **Druids:** Priests, healers, teachers, keepers of oral tradition
   - **Warriors:** Hunters and protectors of the tribes
-  - **Communers:** Farmers, fishermen, herbal gatherers, animal caretakers
+  - **Commoners:** Farmers, fishermen, herbal gatherers, animal caretakers
 - **Social Hierarchy:** Fluid and community-oriented
 - **Military Presence:** Defensive specialists trained to immobilize and redirect threats  
 - **Education System:** 
@@ -133,7 +133,6 @@ A citizen’s personality often mirrors their elemental leaning:
 
 - **Main Economic Activity:** Agriculture, fishing, herbal medicine, animal partnership 
 - **Trade Relations:** Mostly internal between tribes, rare external trade because dependent on safe maritime conditions
-Main Economic Activity: Agriculture, fishing, herbal medicine, animal partnership
 - **Craft Specialization:** Woodwork, leatherwork, botanical remedies
 - **Medical Knowledge:** Highly advanced botanical medicine  
 - **Technological Level Compared to Others:** Low industrial, high biological and spiritual sophistication  
